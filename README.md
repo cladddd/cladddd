@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @claddd
+- 👋 Hi, I’m @cladddd
 - 👀 I’m interested in python, bash, cybersecurity
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on SOC Analyst | Security Analyst | Penetration Tester roles
